@@ -1,0 +1,35 @@
+payload:
+  # ===== Apple Developer 主站与文档 =====
+  - DOMAIN-SUFFIX,developer.apple.com
+  - DOMAIN-SUFFIX,developer-apple.com
+  - DOMAIN-SUFFIX,swift.org
+
+  # ===== App Store Connect（开发者后台）=====
+  - DOMAIN-SUFFIX,appstoreconnect.apple.com
+  - DOMAIN-SUFFIX,itunes.apple.com
+  - DOMAIN-SUFFIX,apps.apple.com
+  - DOMAIN-SUFFIX,testflight.apple.com
+
+  # ===== Apple Cloud / 服务接口 =====
+  - DOMAIN-SUFFIX,apple-cloudkit.com
+  - DOMAIN-SUFFIX,apple-mapkit.com
+  - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,apple.news
+
+  # ===== 系统验证 / 安全证书 =====
+  - DOMAIN,ocsp.apple.com
+  - DOMAIN,configuration.apple.com
+  - DOMAIN,api.apple-cloudkit.com
+  - DOMAIN,identity.apple.com
+  - DOMAIN,gs.apple.com
+
+  # ===== 开发相关辅助域 =====
+  - DOMAIN-SUFFIX,cdn.swift.org
+  - DOMAIN-SUFFIX,docs.swift.org
+  - DOMAIN-SUFFIX,developerdownload.apple.com
+  - DOMAIN-SUFFIX,devimages-cdn.apple.com
+
+  # ===== 可选：Xcode / TestFlight / 调试相关 =====
+  - DOMAIN-SUFFIX,testflight.apple.com
+  - DOMAIN-SUFFIX,xcode.apple.com
+  - DOMAIN-SUFFIX,crashlytics.icloud.com
