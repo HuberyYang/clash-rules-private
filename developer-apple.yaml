@@ -22,3 +22,4 @@ payload:
   - '+.testflight.apple.com'
   - '+.xcode.apple.com'
   - '+.crashlytics.icloud.com'
+  - '+.wps.apple.com'
